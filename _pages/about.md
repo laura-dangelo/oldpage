@@ -40,11 +40,3 @@ At the moment I am a visiting student at UCI, where I am working with Prof. Mich
  </tr>
 </table>
 
-<div class="container">
-   <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
-      First Column 
-   </div>
-   <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
-      Second Column 
-   </div>
-<div>
