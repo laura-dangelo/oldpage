@@ -51,8 +51,8 @@ At the moment I am a visiting student at UCI, where I am working with Prof. Mich
    </td>   
    <td>
      <b style="font-size:18px">Education</b> <br>
-     <img src="../images/49944.png" width="22"> <img src="../images/spacer.png" height="1px" width="2px"> <font style="font-size:17px">  PhD in Statistical Sciences (ongoing)</font> <br> <img src="../images/spacer.png" height="1px" width="30px"> <font style="font-size:13px"> University of Padova </font></td><br>
-   <img src="../images/49944.png" width="22">  <img src="../images/spacer.png" height="1px" width="2px"><font style="font-size:17px">  M.S. in Statistical Sciences</font> <br> <img src="../images/spacer.png" height="1px" width="30px"> <font style="font-size:13px"> University of Padova </font></td>
+     <img src="../images/49944.png" width="22"> <img src="../images/spacer.png" height="1px" width="2px"> <font style="font-size:17px">  PhD in Statistical Sciences (ongoing)</font> <br> <img src="../images/spacer.png" height="1px" width="30px"> <font style="font-size:13px"> University of Padova </font><br>
+   <img src="../images/49944.png" width="22">  <img src="../images/spacer.png" height="1px" width="2px"><font style="font-size:17px">  M.S. in Statistical Sciences</font> <br> <img src="../images/spacer.png" height="1px" width="30px"> <font style="font-size:13px"> University of Padova </font>
    </td>
  </tr>
 </table>
