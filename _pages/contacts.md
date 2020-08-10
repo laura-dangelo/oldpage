@@ -21,6 +21,6 @@ dangelo@stat.unipd.it
 
 <br/>
 
-[<img src="../images/linkedin-icon-2.svg" width="35">](https://www.linkedin.com/in/laura-dangelo/)
 [<img src="../images/github.png" width="35">](https://github.com/laura-dangelo)
+[<img src="../images/linkedin-icon-2.svg" width="35">](https://www.linkedin.com/in/laura-dangelo/)
 [<img src="../images/researchgate.png" width="35">](https://www.researchgate.net/profile/Laura_Dangelo)
