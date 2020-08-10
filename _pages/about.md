@@ -40,3 +40,19 @@ At the moment I am a visiting student at UCI, where I am working with Prof. Mich
  </tr>
 </table>
 
+
+<table>
+  <tr>
+    <td> 
+      <b style="font-size:18px">Interests</b>
+      <li>  <font style="font-size:17px"> Statistical modeling </font> </li> <br>
+      <li> <font style="font-size:17px"> Bayesian statistics </font> </li><br>
+      <li> <font style="font-size:17px"> Bayesian nonparametrics </font> </li><br>
+      <li>  <font style="font-size:17px"> Computational statistics </font> </li>
+    </td>     
+    <td> <img src="../images/49944.png" width="22"> <img src="../images/spacer.png" height="1px" width="2px"> <font style="font-size:17px">  PhD in Statistical Sciences (ongoing)</font> <br> <img src="../images/spacer.png" height="1px" width="30px"> <font style="font-size:13px"> University of Padova </font></td><br>
+    <img src="../images/49944.png" width="22"> <img src="../images/spacer.png" height="1px" width="2px"> <font style="font-size:17px">  PhD in Statistical Sciences (ongoing)</font> <br> <img src="../images/spacer.png" height="1px" width="30px"> <font style="font-size:13px"> University of Padova </font></td><br>
+    <img src="../images/49944.png" width="22"> <img src="../images/spacer.png" height="1px" width="2px"> <font style="font-size:17px">  PhD in Statistical Sciences (ongoing)</font> <br> <img src="../images/spacer.png" height="1px" width="30px"> <font style="font-size:13px"> University of Padova </font></td><br>
+    </td>
+  </tr>
+</table>
