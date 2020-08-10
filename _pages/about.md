@@ -16,32 +16,6 @@ At the moment I am a visiting student at UCI, where I am working with Prof. Mich
 </font>
 
 <br>
-<! --
-<table border="0">
- <tr>
-    <td><b style="font-size:18px">Interests</b></td>
-    <td><b style="font-size:18px">Education</b></td>
- </tr>
-   <tr>
- <td> <li>  <font style="font-size:17px"> Statistical modeling </font> </li> </td>
- <td> <img src="../images/49944.png" width="22"> <img src="../images/spacer.png" height="1px" width="2px"> <font style="font-size:17px">  PhD in Statistical Sciences (ongoing)</font>
-     <br> <img src="../images/spacer.png" height="1px" width="30px"> <font style="font-size:13px"> University of Padova </font></td>
- </tr>
- <tr>
-    <td><li> <font style="font-size:17px"> Bayesian statistics </font> </li> </td>
-    <td><img src="../images/49944.png" width="22">  <img src="../images/spacer.png" height="1px" width="2px"><font style="font-size:17px">  M.S. in Statistical Sciences</font> <br> <img src="../images/spacer.png" height="1px" width="30px"> <font style="font-size:13px"> University of Padova </font></td>
- </tr>
- <tr>
-    <td><li>  <font style="font-size:17px"> Bayesian nonparametrics </font> </li> </td>
-    <td><img src="../images/49944.png" width="22"> <img src="../images/spacer.png" height="1px" width="2px"> <font style="font-size:17px">  B.S. in Statistics, Economics and Finance</font><br> <img src="../images/spacer.png" height="1px" width="30px"> <font style="font-size:13px"> University of Padova </font></td>
- </tr>
-   <tr>
-    <td><li>  <font style="font-size:17px"> Computational statistics </font> </li> </td>
-    <td> </td>
- </tr>
-</table>
--->
-
 
 <table border="0">
  <tr>
@@ -56,7 +30,8 @@ At the moment I am a visiting student at UCI, where I am working with Prof. Mich
      <b style="font-size:18px">Education</b> <br>
      <img src="../images/49944.png" width="22"> <img src="../images/spacer.png" height="1px" width="2px"> <font style="font-size:17px">  PhD in Statistical Sciences (ongoing)</font> <br> <img src="../images/spacer.png" height="1px" width="30px"> <font style="font-size:13px"> University of Padova </font><br>
    <img src="../images/49944.png" width="22">  <img src="../images/spacer.png" height="1px" width="2px"><font style="font-size:17px">  M.S. in Statistical Sciences</font> <br> <img src="../images/spacer.png" height="1px" width="30px"> <font style="font-size:13px"> University of Padova </font><br>
-     <img src="../images/49944.png" width="22"> <img src="../images/spacer.png" height="1px" width="2px"> <font style="font-size:17px">  B.S. in Statistics, Economics and Finance</font><br> <img src="../images/spacer.png" height="1px" width="30px"> <font style="font-size:13px"> University of Padova </font>
+     <img src="../images/49944.png" width="22"> <img src="../images/spacer.png" height="1px" width="2px"> <font style="font-size:17px">  B.S. in Statistics, Economics and Finance</font><br> <img src="../images/spacer.png" height="1px" width="30px"> <font style="font-size:13px"> University of Padova </font><br>
+     
    </td>
  </tr>
 </table>
