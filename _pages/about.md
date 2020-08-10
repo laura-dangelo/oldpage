@@ -48,7 +48,8 @@ At the moment I am a visiting student at UCI, where I am working with Prof. Mich
       <b style="font-size:18px">Interests</b> <br>
       <li>  <font style="font-size:17px"> Statistical modeling </font> </li> <br>
       <li> <font style="font-size:17px"> Bayesian statistics </font> </li><br>
-      <li>  <font style="font-size:17px"> Bayesian nonparametrics </font> </li>
+      <li>  <font style="font-size:17px"> Bayesian nonparametrics </font> </li><br>
+      <li> <font style="font-size:17px"> Computational statistics </font> </li><br>
    </td>   
    <td>
      <b style="font-size:18px">Education</b> <br>
