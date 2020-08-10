@@ -19,11 +19,11 @@ At the moment I am a visiting student at UCI, where I am working with Prof. Mich
 
 <table border="0">
  <tr>
-    <li><b style="font-size:18px">Interests</b></td>
+    <td><b style="font-size:18px">Interests</b></td>
     <td><b style="font-size:18px">Education</b></td>
  </tr>
    <tr>
- <td><img src="../images/index.png" width="18"> <font style="font-size:17px"> Bayesian statistics </font></td>
+ <td><li> <font style="font-size:17px"> Bayesian statistics </font></td>
  <td> <img src="../images/49944.png" width="22">  <font style="font-size:17px">  PhD in Statistical Sciences (ongoing)</font></td>
  </tr>
  <tr>
