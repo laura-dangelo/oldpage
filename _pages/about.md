@@ -22,7 +22,7 @@ At the moment I am a visiting student at UCI, where I am working with Prof. Mich
     <td><b style="font-size:18px">Education</b></td>
  </tr>
    <tr>
- <td> <li> </li> <font style="font-size:17px"> Bayesian statistics </font></td>
+ <td> <li>  <font style="font-size:17px"> Bayesian statistics </font> </li></td>
  <td> <img src="../images/49944.png" width="22">  <font style="font-size:17px">  PhD in Statistical Sciences (ongoing)</font></td>
  </tr>
  <tr>
