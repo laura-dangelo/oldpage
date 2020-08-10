@@ -46,7 +46,8 @@ At the moment I am a visiting student at UCI, where I am working with Prof. Mich
  <tr>
     <td>
       <b style="font-size:18px">Interests</b> <br>
-      <li>  <font style="font-size:17px"> Statistical modeling </font> </li>
+      <li>  <font style="font-size:17px"> Statistical modeling </font> </li> 
+      <li> <font style="font-size:17px"> Bayesian statistics </font> </li>
    </td>   
    <td>
      <b style="font-size:18px">Education</b> <br>
