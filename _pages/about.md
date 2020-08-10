@@ -19,7 +19,7 @@ At the moment I am a visiting student at UCI, where I am working with Prof. Mich
 
 <table border="0">
  <tr>
-    <td><b style="font-size:18px">Interests</b></td>
+    <li><b style="font-size:18px">Interests</b></td>
     <td><b style="font-size:18px">Education</b></td>
  </tr>
    <tr>
