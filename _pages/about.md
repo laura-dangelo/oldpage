@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 <font style="font-size:17px">
-I am a second-year PhD student in Statistics at University of Padova (Cycle XXXIV), under the supervision of Prof. Antonio Canale. My research interests mainly concern Bayesian modeling of complex data, with a particular interest on discrete data, Bayesian Nonparametrics and Computational Statistics. 
+I am a second-year PhD student in Statistics at University of Padova (Cycle XXXIV), my supervisor is Prof. Antonio Canale. My research interests mainly concern Bayesian modeling of complex data, with a particular interest on discrete data, Bayesian Nonparametrics and Computational Statistics. 
   
 <br>
   
