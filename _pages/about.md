@@ -39,3 +39,24 @@ At the moment I am a visiting student at UCI, where I am working with Prof. Mich
     <td> </td>
  </tr>
 </table>
+
+
+
+<table border="0">
+ <tr>
+    <td>
+      <b style="font-size:18px">Interests</b> <br>
+      <li>  <font style="font-size:17px"> Statistical modeling </font> </li>
+   </td>   
+   <td>
+     <b style="font-size:18px">Education</b> <br>
+     <img src="../images/49944.png" width="22"> <img src="../images/spacer.png" height="1px" width="2px"> <font style="font-size:17px">  PhD in Statistical Sciences (ongoing)</font>
+   </td>
+ </tr>
+</table>
+
+
+
+
+
+
