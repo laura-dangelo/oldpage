@@ -23,15 +23,15 @@ At the moment I am a visiting student at UCI, where I am working with Prof. Mich
  </tr>
    <tr>
  <td> <li>  <font style="font-size:17px"> Statistical modeling </font> </li> </td>
- <td> <img src="../images/49944.png" width="22"> <img src="../images/spacer.png" height="1px" width="1px"> <font style="font-size:17px">  PhD in Statistical Sciences (ongoing)</font></td>
+ <td> <img src="../images/49944.png" width="22"> <img src="../images/spacer.png" height="1px" width="2px"> <font style="font-size:17px">  PhD in Statistical Sciences (ongoing)</font></td>
  </tr>
  <tr>
     <td><li> <font style="font-size:17px"> Bayesian statistics </font> </li> </td>
-    <td><img src="../images/49944.png" width="22">  <font style="font-size:17px">  M.S. in Statistical Sciences</font></td>
+    <td><img src="../images/49944.png" width="22">  <img src="../images/spacer.png" height="1px" width="2px"><font style="font-size:17px">  M.S. in Statistical Sciences</font></td>
  </tr>
  <tr>
     <td><li>  <font style="font-size:17px"> Bayesian nonparametrics </font> </li> </td>
-    <td><img src="../images/49944.png" width="22">  <font style="font-size:17px">  B.S. in Statistics, Economics and Finance</font></td>
+    <td><img src="../images/49944.png" width="22"> <img src="../images/spacer.png" height="1px" width="2px"> <font style="font-size:17px">  B.S. in Statistics, Economics and Finance</font></td>
  </tr>
    <tr>
     <td><li>  <font style="font-size:17px"> Computational statistics </font> </li> </td>
