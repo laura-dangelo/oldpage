@@ -21,5 +21,4 @@ dangelo@stat.unipd.it
 
 <br/>
 
-[<img src="../images/twitter.png" width="35">](https://twitter.com/laura_d_angelo)
 [<img src="../images/linkedin-icon-2.svg" width="35">](https://www.linkedin.com/in/laura-dangelo/)
