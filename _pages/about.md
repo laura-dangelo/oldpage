@@ -9,6 +9,7 @@ redirect_from:
 ---
 <font style="font-size:17px">
 I am a second-year PhD student in Statistics at University of Padova, Department of Statistical Sciences (Cycle XXXIV), under the supervision of Prof. Antonio Canale. My research interests mainly concern Bayesian modeling of complex data, with a particular interest on discrete data, Bayesian Nonparametrics and Computational Statistics. 
+  <br>
   
 At the moment I am a visiting student at UCI, where I am working with Prof. Michele Guindani on the modeling of high-dimensional brain data.
 </font>
