@@ -16,6 +16,7 @@ At the moment I am a visiting student at UCI, where I am working with Prof. Mich
 </font>
 
 <br>
+<! --
 <table border="0">
  <tr>
     <td><b style="font-size:18px">Interests</b></td>
@@ -39,7 +40,7 @@ At the moment I am a visiting student at UCI, where I am working with Prof. Mich
     <td> </td>
  </tr>
 </table>
-
+-->
 
 
 <table border="0">
