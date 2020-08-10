@@ -23,8 +23,8 @@ At the moment I am a visiting student at UCI, where I am working with Prof. Mich
  </tr>
    <tr>
  <td> <li>  <font style="font-size:17px"> Statistical modeling </font> </li> </td>
- <td> <img src="../images/49944.png" width="22"> <img src="../images/spacer.png" height="1px" width="2px"> <font style="font-size:17px">  PhD in Statistical Sciences (ongoing)</font></td>
-     <div> <font style="font-size:13px"> University of Padova </font>
+ <td> <img src="../images/49944.png" width="22"> <img src="../images/spacer.png" height="1px" width="2px"> <font style="font-size:17px">  PhD in Statistical Sciences (ongoing)</font>
+     <div> <font style="font-size:13px"> University of Padova </font></td>
  </tr>
  <tr>
     <td><li> <font style="font-size:17px"> Bayesian statistics </font> </li> </td>
