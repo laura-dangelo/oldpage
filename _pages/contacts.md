@@ -21,10 +21,10 @@ dangelo@stat.unipd.it
 
 <br/>
 
-[<img src="../images/github.png" width="35">](https://github.com/laura-dangelo)
-[<img src="../images/linkedin-icon-2.svg" width="35">](https://www.linkedin.com/in/laura-dangelo/)
-[<img src="../images/researchgate.png" width="35">](https://www.researchgate.net/profile/Laura_Dangelo)
-[<img src="../images/orcid.png" width="35">](https://orcid.org/0000-0001-5034-7414)
+[<img src="../images/github_gray.png" width="35">](https://github.com/laura-dangelo)
+[<img src="../images/linkedin_gray.png" width="35">](https://www.linkedin.com/in/laura-dangelo/)
+[<img src="../images/rg_gray.png" width="35">](https://www.researchgate.net/profile/Laura_Dangelo)
+[<img src="../images/orcid_gray.png" width="35">](https://orcid.org/0000-0001-5034-7414)
 
 
  
