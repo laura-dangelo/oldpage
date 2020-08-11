@@ -27,3 +27,6 @@ dangelo@stat.unipd.it
 [<img src="../images/orcid.png" width="35">](https://orcid.org/0000-0001-5034-7414)
 
 
+ <div class="tooltip">Hover over me
+  <span class="tooltiptext">Tooltip text</span>
+</div> 
