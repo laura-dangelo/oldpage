@@ -27,15 +27,13 @@ dangelo@stat.unipd.it
 [<img src="../images/orcid.png" width="35">](https://orcid.org/0000-0001-5034-7414)
 
 
-<h2>Send e-mail to someone@example.com:</h2>
-
-<form action="mailto:someone@example.com" method="post" enctype="text/plain">
+<h2>Send a message:</h2>
+<form action="mailto:laura.dangelo.1@phd.unipd.it" method="post" enctype="text/plain">
 Name:<br>
 <input type="text" name="name"><br>
 E-mail:<br>
 <input type="text" name="mail"><br>
-Comment:<br>
+Message:<br>
 <input type="text" name="comment" size="50"><br><br>
 <input type="submit" value="Send">
-<input type="reset" value="Reset">
 </form>
