@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Laura D'Angelo"
 title_separator          : "-"
 name                     : &name "Laura D'Angelo"
-description              : &description "PhD student <br> @ University of Padova"
+description              : &description "PhD student @ University of Padova"
 url                      : #https://laura-dangelo.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : #"laura-dangelo/laura-dangelo.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Laura D'Angelo"
   avatar           : "profile.jpg"
-  bio              : "PhD student @ University of Padova"
+  bio              : "PhD student <br> @ University of Padova"
   location         : "Irvine, California"
   employer         :
   pubmed           : 
