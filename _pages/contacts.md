@@ -27,7 +27,7 @@ dangelo@stat.unipd.it
 [<img src="../images/orcid.png" width="35">](https://orcid.org/0000-0001-5034-7414)
 
 
-<h2>Send a message:</h2>
+<h2>Send e-mail:</h2>
 <form action="mailto:laura.dangelo.1@phd.unipd.it" method="post" enctype="text/plain">
 Name:<br>
 <input type="text" name="name"><br>
