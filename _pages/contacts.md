@@ -16,6 +16,7 @@ Via Cesare Battisti 241 <br>
 
 
 <b>Email:</b> <br>
+<button id="copyButton">Click</button> <br>
 laura.dangelo.1@phd.unipd.it <br/>
 dangelo@stat.unipd.it
 </font>
@@ -39,12 +40,10 @@ button {
 }
 </style>
 
-<textarea id="clip" style="position: absolute; left: 100px; top: -100px;">Test</textarea>
-<button id="copyButton">Copy To Clipboard</button>
 <script>
 document.getElementById('copyButton').addEventListener('click', function() {
   var ta = document.getElementById('clip');
-  ta.innerHTML = "Test2";
+  ta.innerHTML = "laura.dangelo.1@phd.unipd.it";
   ta.focus();
   ta.select();
   console.log(document.execCommand('copy'));
