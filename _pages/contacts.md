@@ -39,8 +39,6 @@ button {
 }
 </style>
 
-<button id="copy">Copyy</button>
-
 <script>
 function copyToClipboard(text) {
     var $temp = $("<input>");
@@ -51,4 +49,4 @@ function copyToClipboard(text) {
 }
 </script>
 
-$('#copyButtonId').click(function () { copyToClipboard("this text was copied"); });
+('#copyButtonId').click(function () { copyToClipboard("this text was copied"); });
