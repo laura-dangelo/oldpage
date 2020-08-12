@@ -19,7 +19,7 @@ Via Cesare Battisti 241 <br>
 <textarea id="clip" style="position: absolute; left: 100px; top: -100px;">Test</textarea>
 <div class="tooltip">
 <button id="copyButton">laura.dangelo.1@phd.unipd.it </button>
-<span class="tooltiptext">Click to copy</span>
+<span class="tooltiptext">Copy to clipboard</span>
 </div> 
 <br/>
 dangelo@stat.unipd.it
@@ -37,6 +37,7 @@ button {
   background: none!important;
   border: none;
   padding: 0!important;
+  color: #494e52;
   /*optional
   font-family: arial, sans-serif;
   input has OS specific font-family
@@ -73,7 +74,7 @@ document.getElementById('copyButton').addEventListener('click', function() {
   position: absolute;
   z-index: 1;
 
-  background-color: black;
+  background-color: #494e52;
   color: #fff;
   text-align: center;
   padding: 5px 0;
