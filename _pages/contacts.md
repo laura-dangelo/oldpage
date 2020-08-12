@@ -18,11 +18,15 @@ Via Cesare Battisti 241 <br>
 <b>Email:</b> <br>
 <textarea id="clip" style="position: absolute; left: 100px; top: -100px;">Test</textarea>
 <div class="tooltip">
-<button id="copyButton">laura.dangelo.1@phd.unipd.it </button>
+<button id="copyButton">laura.dangelo.1@phd.unipd.it</button>
 <span class="tooltiptext"> Copy to clipboard </span>
 </div> 
 <br/>
-dangelo@stat.unipd.it
+<textarea id="clip" style="position: absolute; left: 100px; top: -100px;">Test</textarea>
+<div class="tooltip">
+<button id="copyButton2">dangelo@stat.unipd.it</button>
+<span class="tooltiptext"> Copy to clipboard </span>
+</div> 
 </font>
 
 <br/>
@@ -50,6 +54,16 @@ button {
 document.getElementById('copyButton').addEventListener('click', function() {
   var ta = document.getElementById('clip');
   ta.innerHTML = "laura.dangelo.1@phd.unipd.it";
+  ta.focus();
+  ta.select();
+  console.log(document.execCommand('copy'));
+});
+</script>
+
+<script>
+document.getElementById('copyButton2').addEventListener('click', function() {
+  var ta = document.getElementById('clip');
+  ta.innerHTML = "dangelo@stat.unipd.it";
   ta.focus();
   ta.select();
   console.log(document.execCommand('copy'));
@@ -92,9 +106,7 @@ document.getElementById('copyButton').addEventListener('click', function() {
   border-style: solid;
   border-color: #44494d transparent transparent transparent;
 }
-.tooltip.top    { margin-top: -3px; }
 .tooltip.right  { margin-left: 15px; }
-.tooltip.bottom { margin-top: 3px;   }
 .tooltip.left   { margin-left: -15px; }
 
 /* Show the tooltip text when you mouse over the tooltip container */
