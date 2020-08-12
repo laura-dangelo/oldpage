@@ -71,6 +71,8 @@ document.getElementById('copyButton').addEventListener('click', function() {
   bottom: 100%;
   left: 50%;
   margin-left: -60px;
+  position: absolute;
+  z-index: 1;
 
   background-color: black;
   color: #fff;
