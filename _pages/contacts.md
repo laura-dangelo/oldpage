@@ -39,25 +39,29 @@ button {
 }
 </style>
 
-<script>
-var copyTextareaBtn = document.querySelector('.js-textareacopybtn');
+<p>Email me at <a class="js-emaillink" href="mailto:matt@example.co.uk">matt@example.co.uk</a></p>
+<p><button class="js-emailcopybtn"><img src="./images/copy-icon.png" /></button></p>
 
-copyTextareaBtn.addEventListener('click', function(event) {
-  var copyTextarea = document.querySelector('.js-copytextarea');
-  copyTextarea.focus();
-  copyTextarea.select();
+<script>
+  var copyEmailBtn = document.querySelector('.js-emailcopybtn');
+copyEmailBtn.addEventListener('click', function(event) {
+  // Select the email link anchor text
+  var emailLink = document.querySelector('.js-emaillink');
+  var range = document.createRange();
+  range.selectNode(emailLink);
+  window.getSelection().addRange(range);
 
   try {
+    // Now that we've selected the anchor text, execute the copy command
     var successful = document.execCommand('copy');
     var msg = successful ? 'successful' : 'unsuccessful';
-    console.log('Copying text command was ' + msg);
-  } catch (err) {
+    console.log('Copy email command was ' + msg);
+  } catch(err) {
     console.log('Oops, unable to copy');
   }
+
+  // Remove the selections - NOTE: Should use
+  // removeRange(range) when it is supported
+  window.getSelection().removeAllRanges();
 });
 </script>
-
-<p>
-  <button class="js-textareacopybtn" style="vertical-align:top;">Copy Textarea</button>
-  <textarea class="js-copytextarea">Hello I'm some text</textarea>
-</p>
