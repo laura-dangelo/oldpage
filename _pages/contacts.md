@@ -31,6 +31,7 @@ dangelo@stat.unipd.it
 <input id="input" type="text"/>
 <button id="copy">Copy</button>
 
+<script>
 function copy() {
   var copyText = document.querySelector("#input");
   copyText.select();
@@ -38,3 +39,4 @@ function copy() {
 }
 
 document.querySelector("#copy").addEventListener("click", copy);
+</script>
