@@ -44,7 +44,7 @@ button {
 
 <script>
 function copy() {
-  var copyText = document.querySelector("#input");
+  var copyText = "ppppr";
   copyText.select();
   document.execCommand("copy");
 }
