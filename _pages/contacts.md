@@ -39,7 +39,7 @@ button {
 }
 </style>
 
-<a id="input" type="text"/> lala </a>
+<a id="input"> lala </a>
 <button id="copy">Copy</button>
 
 <script>
