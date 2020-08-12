@@ -38,6 +38,7 @@ button {
   border: none;
   padding: 0!important;
   color: #44494d;
+  text-decoration-color: #44494d;
   /*optional
   font-family: arial, sans-serif;
   input has OS specific font-family
