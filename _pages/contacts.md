@@ -16,7 +16,8 @@ Via Cesare Battisti 241 <br>
 
 
 <b>Email:</b> <br>
-laura.dangelo.1@phd.unipd.it <br/>
+<textarea id="clip" style="position: absolute; left: 100px; top: -100px;">Test</textarea>
+<button id="copyButton">laura.dangelo.1@phd.unipd.it </button><br/>
 dangelo@stat.unipd.it
 </font>
 
@@ -32,15 +33,14 @@ button {
   background: none!important;
   border: none;
   padding: 0!important;
-  /*optional*/
+  /*optional
   font-family: arial, sans-serif;
-  /*input has OS specific font-family*/
-  cursor: pointer;
+  input has OS specific font-family
+  cursor: pointer; */
 }
 </style>
 
-<textarea id="clip" style="position: absolute; left: 100px; top: -100px;">Test</textarea>
-<button id="copyButton">Copy To Clipboard</button>
+
 
 <script>
 document.getElementById('copyButton').addEventListener('click', function() {
