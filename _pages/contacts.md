@@ -16,9 +16,7 @@ Via Cesare Battisti 241 <br>
 
 
 <b>Email:</b> <br>
-<div class="tooltip"> <a href="" onclick="myFunction()"> laura.dangelo.1@phd.unipd.it </a>
-  <span class="tooltiptext">Copy to clipboard</span>
-</div> <br/>
+laura.dangelo.1@phd.unipd.it <br/>
 dangelo@stat.unipd.it
 </font>
 
@@ -29,91 +27,3 @@ dangelo@stat.unipd.it
 [<img src="../images/rg_gray.png" width="35">](https://www.researchgate.net/profile/Laura_Dangelo)
 [<img src="../images/orcid_gray.png" width="35">](https://orcid.org/0000-0001-5034-7414)
 
-
-
-<style>
-.tooltip {
-  position: relative;
-  display: inline-block;
-}
-
-.tooltip .tooltiptext {
-  visibility: hidden;
-  width: 120px;
-  background-color: #555;
-  color: #fff;
-  text-align: center;
-  border-radius: 6px;
-  padding: 5px 0;
-  position: absolute;
-  z-index: 1;
-  bottom: 125%;
-  left: 50%;
-  margin-left: -60px;
-  opacity: 0;
-  transition: opacity 0.3s;
-}
-
-.tooltip .tooltiptext::after {
-  content: "";
-  position: absolute;
-  top: 100%;
-  left: 50%;
-  margin-left: -5px;
-  border-width: 5px;
-  border-style: solid;
-  border-color: #555 transparent transparent transparent;
-}
-
-.tooltip:hover .tooltiptext {
-  visibility: visible;
-  opacity: 1;
-}
-</style>
-
-
-<link href='https://fonts.googleapis.com/css?family=Oswald' rel='stylesheet' type='text/css'> 
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
-
-<p id="p1">Hello, I'm TEXT 1</p>
-<p id="p2">Hi, I'm the 2nd TEXT</p><br/>
-
-<button onclick="copyToClipboard('#p1')">Copy TEXT 1</button>
-<button onclick="copyToClipboard('#p2')">Copy TEXT 2</button>
-
-body {
-              background-color:#999999;
-              font-family: 'Oswald', sans-serif;
-      }
-p
-{
-  color:#000000;
-  font-size:20px;
-}
-
-.textBox
-{
-  height:30px;
-  width:300px;
-}
-
-button
-{
-  height:30px;
-  width:150px;
-  border-radius:8px;
-  padding:10px;
-  font-size:20px;
-  font-family: 'Oswald', sans-serif;
-  height:52px;
-  cursor:pointer;
-  background-color:wheat;
-}
-
-function copyToClipboard(element) {
-  var $temp = $("<input>");
-  $("body").append($temp);
-  $temp.val($(element).text()).select();
-  document.execCommand("copy");
-  $temp.remove();
-}
