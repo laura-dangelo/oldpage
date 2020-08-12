@@ -27,19 +27,19 @@ redirect_from:
 
 <b style="font-size:18px"> Work experience </b>
 <ul style="list-style-type:circle;">
-  <li>Jan-Sep 2018: Data analyst at Business Integration Partners S.p.a. (Milan). </li>
+  <li><font style="font-size:17px">Jan-Sep 2018: Data analyst at Business Integration Partners S.p.a. (Milan).</font> </li>
 </ul>
 <br>
 
 <b style="font-size:18px">Teaching experience</b>
 <ul style="list-style-type:circle;"> 
-  <li>2016-2017: Academic Tutor at University of Padova.</li>
+  <li><font style="font-size:17px">2016-2017: Academic Tutor at University of Padova.</font></li>
 </ul>
 
 <br>
 <b style="font-size:18px">Awards</b>
 <ul style="list-style-type:circle;"> 
-<li>First prize at <a class="typeA" href="http://local.disia.unifi.it/sus3/">Stats Under the Stars<sup>3</sup></a>; Florence, 2017.</li>
+<li><font style="font-size:17px">First prize at <a class="typeA" href="http://local.disia.unifi.it/sus3/">Stats Under the Stars<sup>3</sup></a>; Florence, 2017.</font></li>
 </ul>
   
   
