@@ -14,10 +14,7 @@ Via Cesare Battisti 241 <br>
 
 <br>
 
-<!DOCTYPE html>
-<html>
-<body>
-  
+
 <b>Email:</b> <br>
 <div class="tooltip"> <a href="" onclick="myFunction()"> laura.dangelo.1@phd.unipd.it </a>
   <span class="tooltiptext">Copy to clipboard</span>
@@ -74,22 +71,19 @@ dangelo@stat.unipd.it
 }
 </style>
 
-<script>
-function myFunction() {
-  /* Get the text field */
-  var copyText = document.getElementById("myInput");
+<SPAN ID="copytext">
+copia
+</SPAN>
 
-  /* Select the text field */
-  copyText.select();
-  copyText.setSelectionRange(0, 99999); /*For mobile devices*/
+<TEXTAREA ID="holdtext" STYLE="display:none;">
+</TEXTAREA>
+<a onClick="ClipBoard();">Copy to Clipboard</a>
 
-  /* Copy the text inside the text field */
-  document.execCommand("copy");
-
-  /* Alert the copied text */
-  alert("Copied the text: " + copyText.value);
-} 
-</script>
-
-</body>
-</html>
+<SCRIPT LANGUAGE="JavaScript">
+function ClipBoard()
+{
+holdtext.innerText = copytext.innerText;
+Copied = holdtext.createTextRange();
+Copied.execCommand("Copy");
+}
+</SCRIPT>
