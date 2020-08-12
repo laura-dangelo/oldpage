@@ -43,7 +43,7 @@ button {
 
 <script>
 function copy() {
-  var copyText = "ppppr";
+  copyText = "ppppr";
   copyText.select();
   document.execCommand("copy");
 }
