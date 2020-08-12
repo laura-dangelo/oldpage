@@ -28,4 +28,13 @@ dangelo@stat.unipd.it
 [<img src="../images/orcid_gray.png" width="35">](https://orcid.org/0000-0001-5034-7414)
 
 
+<input id="input" type="text"/>
+<button id="copy">Copy</button>
 
+function copy() {
+  var copyText = document.querySelector("#input");
+  copyText.select();
+  document.execCommand("copy");
+}
+
+document.querySelector("#copy").addEventListener("click", copy);
