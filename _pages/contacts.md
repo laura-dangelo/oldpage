@@ -79,7 +79,7 @@ document.getElementById('copyButton').addEventListener('click', function() {
   text-align: center;
   padding: 5px 0;
   border-radius: 6px;
-  font-size: 16px;
+  font-size: 15px;
 }
 
 .tooltip .tooltiptext::after {
