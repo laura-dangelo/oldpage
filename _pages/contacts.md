@@ -92,6 +92,10 @@ document.getElementById('copyButton').addEventListener('click', function() {
   border-style: solid;
   border-color: #44494d transparent transparent transparent;
 }
+.tooltip.top    { margin-top: -10px; }
+.tooltip.right  { margin-left: 10px; }
+.tooltip.bottom { margin-top: 10px;   }
+.tooltip.left   { margin-left: -10px; }
 
 /* Show the tooltip text when you mouse over the tooltip container */
 .tooltip:hover .tooltiptext {
