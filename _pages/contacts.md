@@ -27,13 +27,26 @@ dangelo@stat.unipd.it
 [<img src="../images/rg_gray.png" width="35">](https://www.researchgate.net/profile/Laura_Dangelo)
 [<img src="../images/orcid_gray.png" width="35">](https://orcid.org/0000-0001-5034-7414)
 
-<a onclick="copy"> prova2 </a>
+<style>
+button {
+  background: none!important;
+  border: none;
+  padding: 0!important;
+  /*optional*/
+  font-family: arial, sans-serif;
+  /*input has OS specific font-family*/
+  color: #069;
+  text-decoration: underline;
+  cursor: pointer;
+}
+</style>
+
 <input id="input" type="text"/>
 <button id="copy">Copy</button>
 
 <script>
 function copy() {
-  var copyText = "laura.dangelo";
+  var copyText = document.querySelector("#input");
   copyText.select();
   document.execCommand("copy");
 }
