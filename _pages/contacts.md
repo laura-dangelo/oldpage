@@ -40,6 +40,9 @@ button {
 }
 </style>
 
+<textarea id="clip" style="position: absolute; left: 100px; top: -100px;">Test</textarea>
+<button id="copyButton">Copy To Clipboard</button>
+
 <script>
 document.getElementById('copyButton').addEventListener('click', function() {
   var ta = document.getElementById('clip');
