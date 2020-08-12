@@ -27,7 +27,7 @@ redirect_from:
 
 <b style="font-size:18px"> Work experience </b>
 <ul style="list-style-type:circle;">
-  <li>2018: Data analyst at Business Integration Partners S.p.a. (Milan). </li>
+  <li>Jan-Sep 2018: Data analyst at Business Integration Partners S.p.a. (Milan). </li>
 </ul>
 <br>
 
