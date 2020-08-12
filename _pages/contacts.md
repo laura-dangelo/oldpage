@@ -43,16 +43,10 @@ button {
 <button id="copyButton">Copy To Clipboard</button>
 <script>
 document.getElementById('copyButton').addEventListener('click', function() {
-
-var ta = document.getElementById('clip');
-
-ta.innerHTML = "Test2";
-
-ta.focus();
-ta.select();
-
-console.log(document.execCommand('copy'));
-
+  var ta = document.getElementById('clip');
+  ta.innerHTML = "Test2";
+  ta.focus();
+  ta.select();
+  console.log(document.execCommand('copy'));
 });
-
 </script>
