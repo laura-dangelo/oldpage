@@ -16,7 +16,6 @@ Via Cesare Battisti 241 <br>
 
 
 <b>Email:</b> <br>
-<button id="copyButton">Click</button> <br>
 laura.dangelo.1@phd.unipd.it <br/>
 dangelo@stat.unipd.it
 </font>
