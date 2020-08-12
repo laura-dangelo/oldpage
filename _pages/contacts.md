@@ -24,7 +24,7 @@ Via Cesare Battisti 241 <br>
 <br/>
 dangelo@stat.unipd.it
 </font>
-check!
+check2!
 
 <br/>
 
@@ -68,15 +68,27 @@ document.getElementById('copyButton').addEventListener('click', function() {
 .tooltip .tooltiptext {
   visibility: hidden;
   width: 120px;
+  bottom: 100%;
+  left: 50%;
+  margin-left: -60px;
+
   background-color: black;
   color: #fff;
   text-align: center;
   padding: 5px 0;
   border-radius: 6px;
- 
-  /* Position the tooltip text - see examples below! */
+
+}
+
+.tooltip .tooltiptext::after {
+  content: " ";
   position: absolute;
-  z-index: 1;
+  top: 100%; /* At the bottom of the tooltip */
+  left: 50%;
+  margin-left: -5px;
+  border-width: 5px;
+  border-style: solid;
+  border-color: black transparent transparent transparent;
 }
 
 /* Show the tooltip text when you mouse over the tooltip container */
