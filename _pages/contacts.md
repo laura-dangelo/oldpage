@@ -46,7 +46,7 @@ button {
 
 <script>
 function copy() {
-  var copyText = document.querySelector("#input");
+  var copyText = document.querySelector("provaprova");
   copyText.select();
   document.execCommand("copy");
 }
