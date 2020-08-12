@@ -79,7 +79,7 @@ document.getElementById('copyButton').addEventListener('click', function() {
   text-align: center;
   padding: 5px 0;
   border-radius: 6px;
-  font-size: 40px;
+  font-size: 10px;
 }
 
 .tooltip .tooltiptext::after {
@@ -91,6 +91,7 @@ document.getElementById('copyButton').addEventListener('click', function() {
   border-width: 5px;
   border-style: solid;
   border-color: black transparent transparent transparent;
+  background-color: #44494d;
 }
 
 /* Show the tooltip text when you mouse over the tooltip container */
