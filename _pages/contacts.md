@@ -39,29 +39,20 @@ button {
 }
 </style>
 
-<p>Email me at <a class="js-emaillink" href="mailto:ex@example.com">ex@example.com</a></p>
-<p><button class="js-emailcopybtn">ddd</button></p>
+<textarea id="clip" style="position: absolute; left: 100px; top: -100px;">Test</textarea>
+<button id="copyButton">Copy To Clipboard</button>
+<script>
+document.getElementById('copyButton').addEventListener('click', function() {
 
+var ta = document.getElementById('clip');
 
-var copyEmailBtn = document.querySelector('.js-emailcopybtn');
-copyEmailBtn.addEventListener('click', function(event) {
-  // Select the email link anchor text
-  var emailLink = document.querySelector('.js-emaillink');
-  var range = document.createRange();
-  range.selectNode(emailLink);
-  window.getSelection().addRange(range);
+ta.innerHTML = "Test2";
 
-  try {
-    // Now that we've selected the anchor text, execute the copy command
-    var successful = document.execCommand('copy');
-    var msg = successful ? 'successful' : 'unsuccessful';
-    console.log('Copy email command was ' + msg);
-  } catch(err) {
-    console.log('Oops, unable to copy');
-  }
+ta.focus();
+ta.select();
 
-  // Remove the selections - NOTE: Should use
-  // removeRange(range) when it is supported
-  window.getSelection().removeAllRanges();
+console.log(document.execCommand('copy'));
+
 });
 
+</script>
