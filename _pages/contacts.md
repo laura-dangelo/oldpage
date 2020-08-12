@@ -39,7 +39,7 @@ button {
 }
 </style>
 
-<button id="copy">Copy</button>
+<button id="copy">Copyy</button>
 
 <script>
 function copy() {
