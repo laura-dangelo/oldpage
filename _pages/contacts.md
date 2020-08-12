@@ -41,7 +41,7 @@ button {
 }
 </style>
 
-<a id="input" type="text"/>
+<input id="input" type="text"/>
 <button id="copy">Copy</button>
 
 <script>
