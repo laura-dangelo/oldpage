@@ -71,6 +71,7 @@ dangelo@stat.unipd.it
 }
 </style>
 
+<script>
 function myFunction() {
   /* Get the text field */
   var copyText = document.getElementById("myInput");
@@ -85,4 +86,5 @@ function myFunction() {
   /* Alert the copied text */
   alert("Copied the text: " + copyText.value);
 } 
+</script>
 
