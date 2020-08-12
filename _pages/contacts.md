@@ -28,7 +28,7 @@ dangelo@stat.unipd.it
 [<img src="../images/orcid_gray.png" width="35">](https://orcid.org/0000-0001-5034-7414)
 
 
-```html
+
 <!DOCTYPE html>
 <html>
 <link href='https://fonts.googleapis.com/css?family=Oswald' rel='stylesheet' type='text/css'> 
@@ -47,9 +47,7 @@ dangelo@stat.unipd.it
 <br/><br/><input class="textBox" type="text" id="" placeholder="Dont belive me?..TEST it here..;)" />
 </center>
 </html>
-```
 
-```css
 body {
               background-color:#999999;
               font-family: 'Oswald', sans-serif;
@@ -78,9 +76,7 @@ button
   cursor:pointer;
   background-color:wheat;
 }
-```
 
-```javascript
 function copyToClipboard(element) {
   var $temp = $("<input>");
   $("body").append($temp);
@@ -88,4 +84,4 @@ function copyToClipboard(element) {
   document.execCommand("copy");
   $temp.remove();
 }
-```
+
