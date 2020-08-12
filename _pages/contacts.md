@@ -41,12 +41,12 @@ button {
 }
 </style>
 
-<input id="input" type="text"/>
+<a id="input" type="text"/>
 <button id="copy">Copy</button>
 
 <script>
 function copy() {
-  var copyText = document.querySelector("ddddddd");
+  var copyText = document.querySelector("#button");
   copyText.select();
   document.execCommand("copy");
 }
