@@ -72,7 +72,7 @@ dangelo@stat.unipd.it
 </style>
 
 
-
+<script>
 function fallbackCopyTextToClipboard(text) {
   var textArea = document.createElement("textarea");
   textArea.value = text;
@@ -119,6 +119,8 @@ copyBobBtn.addEventListener('click', function(event) {
 copyJaneBtn.addEventListener('click', function(event) {
   copyTextToClipboard('Jane');
 });
+
+</script>
 
 <div style="display:inline-block; vertical-align:top;">
   <button class="js-copy-bob-btn">Set clipboard to BOB</button><br /><br />
