@@ -27,7 +27,7 @@ dangelo@stat.unipd.it
 [<img src="../images/rg_gray.png" width="35">](https://www.researchgate.net/profile/Laura_Dangelo)
 [<img src="../images/orcid_gray.png" width="35">](https://orcid.org/0000-0001-5034-7414)
 
-<a href="" onclick="copy"> sss </a>
+<p onclick="copy"> prova </p>
 <input id="input" type="text"/>
 <button id="copy">Copy</button>
 
