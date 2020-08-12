@@ -35,18 +35,16 @@ button {
   /*optional*/
   font-family: arial, sans-serif;
   /*input has OS specific font-family*/
-  color: #069;
-  text-decoration: underline;
   cursor: pointer;
 }
 </style>
 
-<input id="input" type="text"/>
+<a id="input" type="text"/> lala </a>
 <button id="copy">Copy</button>
 
 <script>
 function copy() {
-  var copyText = document.querySelector("#button");
+  var copyText = document.querySelector("#input");
   copyText.select();
   document.execCommand("copy");
 }
