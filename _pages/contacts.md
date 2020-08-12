@@ -62,7 +62,7 @@ document.getElementById('copyButton').addEventListener('click', function() {
 .tooltip {
   position: relative;
   display: inline-block;
-   border-bottom: 1px dotted #44494d; /* If you want dots under the hoverable text */
+  border-bottom: 1px dotted #44494d; /* If you want dots under the hoverable text */
 }
 
 /* Tooltip text */
@@ -92,7 +92,6 @@ document.getElementById('copyButton').addEventListener('click', function() {
   border-width: 5px;
   border-style: solid;
   border-color: #44494d transparent transparent transparent;
-  border-bottom-color: #44494d;
 }
 
 /* Show the tooltip text when you mouse over the tooltip container */
