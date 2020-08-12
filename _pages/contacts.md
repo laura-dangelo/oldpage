@@ -19,7 +19,7 @@ Via Cesare Battisti 241 <br>
 <textarea id="clip" style="position: absolute; left: 100px; top: -100px;">Test</textarea>
 <div class="tooltip">
 <button id="copyButton">laura.dangelo.1@phd.unipd.it </button>
-<span class="tooltiptext">Copy to clipboard</span>
+<span class="tooltiptext"> Copy to clipboard </span>
 </div> 
 <br/>
 dangelo@stat.unipd.it
@@ -80,7 +80,7 @@ document.getElementById('copyButton').addEventListener('click', function() {
   text-align: center;
   padding: 5px 0;
   border-radius: 6px;
-  font-size: 15px;
+  font-size: 16px;
 }
 
 .tooltip .tooltiptext::after {
