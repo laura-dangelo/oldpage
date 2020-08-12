@@ -78,9 +78,6 @@ document.getElementById('copyButton').addEventListener('click', function() {
   text-align: center;
   padding: 5px 0;
   border-radius: 6px;
-
-  opacity: 0;
-  transition: opacity 0.6s;
 }
 
 .tooltip .tooltiptext::after {
