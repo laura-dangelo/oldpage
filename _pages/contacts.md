@@ -39,11 +39,11 @@ button {
 }
 </style>
 
-<p>Email me at <a class="js-emaillink" href="mailto:matt@example.co.uk">matt@example.co.uk</a></p>
+<p>Email me at <a class="js-emaillink" href="mailto:ex@example.com">ex@example.com</a></p>
 <p><button class="js-emailcopybtn">ddd</button></p>
 
-<script>
-  var copyEmailBtn = document.querySelector('.js-emailcopybtn');
+
+var copyEmailBtn = document.querySelector('.js-emailcopybtn');
 copyEmailBtn.addEventListener('click', function(event) {
   // Select the email link anchor text
   var emailLink = document.querySelector('.js-emaillink');
@@ -64,4 +64,4 @@ copyEmailBtn.addEventListener('click', function(event) {
   // removeRange(range) when it is supported
   window.getSelection().removeAllRanges();
 });
-</script>
+
