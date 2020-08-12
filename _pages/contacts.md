@@ -40,7 +40,7 @@ button {
 </style>
 
 <p>Email me at <a class="js-emaillink" href="mailto:matt@example.co.uk">matt@example.co.uk</a></p>
-<p><button class="js-emailcopybtn"><img src="./images/copy-icon.png" /></button></p>
+<p><button class="js-emailcopybtn">ddd</button></p>
 
 <script>
   var copyEmailBtn = document.querySelector('.js-emailcopybtn');
