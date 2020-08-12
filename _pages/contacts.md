@@ -62,7 +62,7 @@ document.getElementById('copyButton').addEventListener('click', function() {
 .tooltip {
   position: relative;
   display: inline-block;
-  border-bottom: 1px dotted black; /* If you want dots under the hoverable text */
+  /* border-bottom: 1px dotted black;  If you want dots under the hoverable text */
 }
 
 /* Tooltip text */
@@ -80,7 +80,7 @@ document.getElementById('copyButton').addEventListener('click', function() {
   text-align: center;
   padding: 5px 0;
   border-radius: 6px;
-  font-size: 10px;
+  font-size: 15px;
 }
 
 .tooltip .tooltiptext::after {
@@ -92,7 +92,7 @@ document.getElementById('copyButton').addEventListener('click', function() {
   border-width: 5px;
   border-style: solid;
   border-color: black transparent transparent transparent;
-  background-color: #44494d;
+  color: #44494d;
 }
 
 /* Show the tooltip text when you mouse over the tooltip container */
