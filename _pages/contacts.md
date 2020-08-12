@@ -37,7 +37,7 @@ button {
   background: none!important;
   border: none;
   padding: 0!important;
-  color: #494e52;
+  color: #44494d;
   /*optional
   font-family: arial, sans-serif;
   input has OS specific font-family
@@ -74,11 +74,12 @@ document.getElementById('copyButton').addEventListener('click', function() {
   position: absolute;
   z-index: 1;
 
-  background-color: #494e52;
+  background-color: #44494d;
   color: #fff;
   text-align: center;
   padding: 5px 0;
   border-radius: 6px;
+  font-size: 40px;
 }
 
 .tooltip .tooltiptext::after {
