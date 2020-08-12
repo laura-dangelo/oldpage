@@ -39,7 +39,6 @@ button {
 }
 </style>
 
-<a id="input"> lala </a>
 <button id="copy">Copy</button>
 
 <script>
