@@ -14,7 +14,10 @@ Via Cesare Battisti 241 <br>
 
 <br>
 
-
+<!DOCTYPE html>
+<html>
+<body>
+  
 <b>Email:</b> <br>
 <div class="tooltip"> <a href="" onclick="myFunction()"> laura.dangelo.1@phd.unipd.it </a>
   <span class="tooltiptext">Copy to clipboard</span>
@@ -88,3 +91,5 @@ function myFunction() {
 } 
 </script>
 
+</body>
+</html>
