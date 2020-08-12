@@ -27,13 +27,13 @@ redirect_from:
 
 <b style="font-size:18px"> Work experience </b>
 <ul style="list-style-type:circle;">
-  <li><font style="font-size:17px">Jan-Sep 2018: Data analyst at Business Integration Partners S.p.a. (Milan).</font> </li>
+<li><font style="font-size:17px">Jan-Sep 2018: Data analyst at Business Integration Partners S.p.a. (Milan).</font> </li>
 </ul>
 <br>
 
 <b style="font-size:18px">Teaching experience</b>
 <ul style="list-style-type:circle;"> 
-  <li><font style="font-size:17px">2016-2017: Academic Tutor at University of Padova.</font></li>
+<li><font style="font-size:17px">2016-2017: Academic Tutor at University of Padova.</font></li>
 </ul>
 
 <br>
@@ -50,5 +50,5 @@ redirect_from:
 
 
 <hr>
-<a class="typeA" href="https://laura-dangelo.github.io/files/CV_dangelo_laura.pdf" style="color:rgb(73,78,82)">Complete CV</a>
+<a class="typeA" href="https://laura-dangelo.github.io/files/CV_dangelo_laura.pdf" style="color:rgb(73,78,82)"><font style="font-size:17px">Complete CV</font></a>
 
