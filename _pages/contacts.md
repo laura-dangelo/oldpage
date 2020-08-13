@@ -36,6 +36,21 @@ Via Cesare Battisti 241 <br>
 [<img src="../images/rg_gray.png" width="35">](https://www.researchgate.net/profile/Laura_Dangelo)
 [<img src="../images/orcid_gray.png" width="35">](https://orcid.org/0000-0001-5034-7414)
 
+<style>
+button {
+  background: none!important;
+  border: none;
+  padding: 0!important;
+  /*optional*/
+  font-family: arial, sans-serif;
+  /*input has OS specific font-family*/
+  color: #44494d;
+  cursor: pointer;
+}
+button:active{
+  color: #fff;
+}
+</style>
 
 <script>
 document.getElementById('copyButton').addEventListener('click', function() {
