@@ -44,9 +44,11 @@ button {
   /*optional*/
   font-family: arial, sans-serif;
   /*input has OS specific font-family*/
-  color: #069;
-  text-decoration: underline;
+  color: #44494d;
   cursor: pointer;
+}
+button:onlick{
+  color: #fff;
 }
 </style>
 
