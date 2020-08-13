@@ -47,7 +47,7 @@ button {
   color: #44494d;
   cursor: pointer;
 }
-button:onlick{
+button:active{
   color: #fff;
 }
 </style>
