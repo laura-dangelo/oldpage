@@ -41,11 +41,12 @@ button {
   background: none!important;
   border: none;
   padding: 0!important;
-  text-decoration-color: #44494d;
-  /*optional
+  /*optional*/
   font-family: arial, sans-serif;
-  input has OS specific font-family
-  cursor: pointer; */
+  /*input has OS specific font-family*/
+  color: #069;
+  text-decoration: underline;
+  cursor: pointer;
 }
 </style>
 
