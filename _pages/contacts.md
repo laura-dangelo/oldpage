@@ -36,9 +36,7 @@ Via Cesare Battisti 241 <br>
 [<img src="../images/rg_gray.png" width="35">](https://www.researchgate.net/profile/Laura_Dangelo)
 [<img src="../images/orcid_gray.png" width="35">](https://orcid.org/0000-0001-5034-7414)
 
-<div class="container">
-  <img src="../images/github_gray.png" width="15" class="image" style="width:100%">
-</div>
+<div class="container"><img src="../images/github_gray.png" width="35" class="image">(https://github.com/laura-dangelo)</div>
 
 
 <meta name="viewport" content="width=device-width, initial-scale=1">
