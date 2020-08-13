@@ -7,7 +7,8 @@ author_profile: true
 
 {% include base_path %}
 <font style="font-size:17px">
-Department of Statistical Sciences, University of Padova<br/>
+Department of Statistical Sciences </br>
+University of Padova<br/>
 Via Cesare Battisti 241 <br>
 35121 Padova, Italy<br/>
 
