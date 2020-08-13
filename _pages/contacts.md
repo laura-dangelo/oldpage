@@ -7,10 +7,10 @@ author_profile: true
 
 {% include base_path %}
 <font style="font-size:17px">
-Department of Statistical Sciences </br>
-University of Padova<br/>
+Department of Statistical Sciences <br>
+University of Padova<br>
 Via Cesare Battisti 241 <br>
-35121 Padova, Italy<br/>
+35121 Padova, Italy<br>
 
 <br>
 
@@ -37,10 +37,7 @@ Via Cesare Battisti 241 <br>
 [<img src="../images/orcid_gray.png" width="35">](https://orcid.org/0000-0001-5034-7414)
 
 <div class="container">
-  <img src="../images/github_gray.png" width="35" class="image" style="width:100%">
-  <div class="middle">
-    <div class="text"> </div>
-  </div>
+  <img src="../images/github_gray.png" width="15" class="image" style="width:100%">
 </div>
 
 
